@@ -1,0 +1,15 @@
+Trade can be associated with two kinds of problems relevant to SDGs. Each, if unresolved, may threaten SDG progress.<br><br>
+First, trade alters the distribution of income. Even though total income increases, there is no guarantee that every group in society will benefit.<br><br>
+Second, externalities are a form of market failure, wherein the market doesn’t reflect the true social value of a good or service. Pollution is one example.<br><br> 
+Externalities and some policies may diminish or reverse gains from trade,<br><br>
+especially where institutions that should protect non-market phenomena like environment, human rights, and the rights of children and women do not function well.<br><br>
+Changes in factor prices are a direct consequence of trade.<br><br>
+ Individuals and households are not equally endowed with labor, land, or capital. Because of this, their incomes will also change relative to each other as a result of trade. Therefore, in addition to increasing total income, trade causes income redistribution among households.<br><br>
+In principle, the gains from trade can be redistributed (for example, through taxation) so that nobody loses.<br><br>
+If the change is to the benefit of relatively poor people, then trade can promote inclusive growth. But as we’ll see in a later module, the effects of trade are complex, and people may simultaneously move across the poverty line in both directions as the result of a single policy change.<br><br>
+Textbook predictions of trade’s effects assume that property rights are clearly established and enforced and that there is a fair market for every kind of good and service—including “bad” products such as pollution.<br><br>
+Of course, the real world has many examples where this assumption does not hold. Property rights in some land and other physical assets, not to mention far less tangible things like the right to breathe clean air, are not at all well established and may be unenforceable even where they do exist.<br><br>
+Market failures give rise to externalities, in which the total value of an activity is greater or less than its market value, with the additional benefits or costs accruing to other parties who lack influence over the activity in question.<br><br>
+Air pollution is an example: vehicles and smokestacks produce it, and individuals consume it. Still, they are not compensated for the damage they suffer and have no (or very little) influence on the production decisions that lead to pollution production.<br><br>
+Trade may create incentives to deplete natural resources or pollute the environment. If so, then an economy-environment win-win outcome has more than one target and<br><br>
+will require more than one policy instrument to be realized. This two-targets-two-instruments problem is widespread in economic policy-making, and we will encounter it again in the coming modules.

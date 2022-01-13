@@ -20,65 +20,36 @@ It is uncontroversial that trade improves total income by allowing for specializ
 The gains from specialization are felt through more efficient resource utilization, lower prices for consumers, improved access to technology, and stronger incentives for investment.<br>
 Trade is often complemented by foreign investment (FDI), which comes “bundled” with technology,<br>
  know-how, and international networks for efficient sales,<br>
-, sourcing and management. In this course, when we refer to trade, it should be understood that we are usually including FDI.<br>
-Countries that engage in trade gain access to all these potential benefits. In this sense, trade is a win-win course of action.<br>
- As Jeffrey Sachs, former director of the UN Millennium Goals, put it:"When countries open up to trade, they generally benefit because they can sell more, then they can buy more. And trade has a two-way gain.”<br>
-Higher total income has direct and indirect effects on poverty, hunger and health. The most direct positive implications of trade<br>
-are on the economic SDGs—most especially SDG 1, the goal of ending poverty in all its dimensions everywhere.<br>
-We will explore mechanisms more deeply in the next and subsequent modules.<br>
-Looking “under the hood” for mechanisms, we can learn more deeply about how trade affects incomes.<br> 
-The most important effect, in terms of SDG linkages, is through<br>
- employment, labor earnings and job security. If workers in an economy can find jobs in industries that are growing faster through trade, their productivity and earnings will be higher.<br>
- And usually, exposure to international markets also means that workers are more likely to be employed in formally established firms where working conditions and job security is better than in small, informal firms.<br>
-Finally, trade has a powerful effect on incentives to invest in roads, ports, electricity grids, and other infrastructure. These investments further increase gains from trade and create benefits that extend far beyond those directly involved in importing or exporting industries.<br>
-In a nutshell, the pursuit of trade alters prices; the mix of goods and services produced; the efficiency of input use, and investment incentives. These have direct impacts on jobs and wages, which affect nearly all household incomes, and promote achieving SDGs, especially SDG 8 and 9.<br>
-In general, it is promising that trade potentially promote SDGs 4, 5, and 10. Trade typically raises incomes, the value of labor, and household’s affordability for better education.<br>
-The income effects of trade give a powerful list to efforts to increase educational attainment. Better-off households invest more in their children’s well-being, including keeping them in school longer and investing more in the quality of their education.<br>
-Although it depends on the country and the industry, it is often evident that international engagement typically strengthens commitments to decent work and gender equality. By stimulating labor market activity, trade encourages more women to enter the labor market. And many export-oriented industries in lower-income countries are intensive in female employment. This applies especially to light manufacturing and assembly operations.<br>
-The story is not uniformly rosy, however. Unskilled job growth can entice some teenagers to quit school early. And when social and legal institutions are weak, job growth may also increase exploitative practices affecting children and women. We will talk about these later in the course.<br>
-Returning once more to our simplified story, we now look at SDG impacts through the public sector. On the policy side,<br>
-trade can facilitate good policy.<br>
- Trade connects firms and governments to an international community in which varying standards and norms are applied to a wide range of practices from tolerance of child labor to protection for endangered species.<br>
-Because most developing countries are “price-takers” in international markets,<br>
-they may find it easier to comply with international norms than to try to resist or circumvent them.<br>
-It is also well understood, however, that in every country trade creates both winners and losers.In principle,<br>
-the aggregate gains are large enough that losers could be fully compensated— for example by taxing and redistributing part of the winners’ gains, thus leaving everyone better off. But in practice, this rarely happens. Because of this, there is inevitably disagreement over trade and trade policy.<br>
-The existence of aggregate gains, and the certainty of distributional conflicts, are the two most widely agreed consequences of trade.<br>
-In addition, trade in the presence of missing markets for pollution or property rights may lead to increased environmental degradation.<br>
-In general, the relationship between trade and environment is a complex one. We will explore issues in this area in more detail later in this course.<br>
-Here are some examples of important questions that this course aims to equip you to consider.<br>
-
-How does trade raise incomes?<br>
-Does trade increase food security?<br>
-Does trade promote education?<br> 
-What are the effects of trade on the environment?Is trade compatible with sustainable resource use?<br>
-
-Each of these speaks to a specific SDG or SDGs. With some tools in hand (from the next module, A.2), we will be prepared to ask questions such as these– and many more as well.<br> 
-
+, sourcing and management. In this course, when we refer to trade, it should be understood that we are usually including FDI.<br><br>
+Countries that engage in trade gain access to all these potential benefits. In this sense, trade is a win-win course of action.<br><br>
+ As Jeffrey Sachs, former director of the UN Millennium Goals, put it:"When countries open up to trade, they generally benefit because they can sell more, then they can buy more. And trade has a two-way gain.”<br><br>
+Higher total income has direct and indirect effects on poverty, hunger and health. The most direct positive implications of trade<br><br>
+are on the economic SDGs—most especially SDG 1, the goal of ending poverty in all its dimensions everywhere.<br><br>
+We will explore mechanisms more deeply in the next and subsequent modules.<br><br>
+Looking “under the hood” for mechanisms, we can learn more deeply about how trade affects incomes.<br><br> 
+The most important effect, in terms of SDG linkages, is through<br><br>
+ employment, labor earnings and job security. If workers in an economy can find jobs in industries that are growing faster through trade, their productivity and earnings will be higher.<br><br>
+ And usually, exposure to international markets also means that workers are more likely to be employed in formally established firms where working conditions and job security is better than in small, informal firms.<br><br>
+Finally, trade has a powerful effect on incentives to invest in roads, ports, electricity grids, and other infrastructure. These investments further increase gains from trade and create benefits that extend far beyond those directly involved in importing or exporting industries.<br><br>
+In a nutshell, the pursuit of trade alters prices; the mix of goods and services produced; the efficiency of input use, and investment incentives. These have direct impacts on jobs and wages, which affect nearly all household incomes, and promote achieving SDGs, especially SDG 8 and 9.<br><br>
+In general, it is promising that trade potentially promote SDGs 4, 5, and 10. Trade typically raises incomes, the value of labor, and household’s affordability for better education.<br><br>
+The income effects of trade give a powerful list to efforts to increase educational attainment. Better-off households invest more in their children’s well-being, including keeping them in school longer and investing more in the quality of their education.<br><br>
+Although it depends on the country and the industry, it is often evident that international engagement typically strengthens commitments to decent work and gender equality. By stimulating labor market activity, trade encourages more women to enter the labor market. And many export-oriented industries in lower-income countries are intensive in female employment. This applies especially to light manufacturing and assembly operations.<br><br>
+The story is not uniformly rosy, however. Unskilled job growth can entice some teenagers to quit school early. And when social and legal institutions are weak, job growth may also increase exploitative practices affecting children and women. We will talk about these later in the course.<br><br>
+Returning once more to our simplified story, we now look at SDG impacts through the public sector. On the policy side,<br><br>
+trade can facilitate good policy.<br><br>
+ Trade connects firms and governments to an international community in which varying standards and norms are applied to a wide range of practices from tolerance of child labor to protection for endangered species.<br><br>
+Because most developing countries are “price-takers” in international markets,<br><br>
+they may find it easier to comply with international norms than to try to resist or circumvent them.<br><br>
+It is also well understood, however, that in every country trade creates both winners and losers.In principle,<br><br>
+the aggregate gains are large enough that losers could be fully compensated— for example by taxing and redistributing part of the winners’ gains, thus leaving everyone better off. But in practice, this rarely happens. Because of this, there is inevitably disagreement over trade and trade policy.<br><br>
+The existence of aggregate gains, and the certainty of distributional conflicts, are the two most widely agreed consequences of trade.<br><br>
+In addition, trade in the presence of missing markets for pollution or property rights may lead to increased environmental degradation.<br><br>
+In general, the relationship between trade and environment is a complex one. We will explore issues in this area in more detail later in this course.<br><br>
+Here are some examples of important questions that this course aims to equip you to consider.<br><br>
+How does trade raise incomes?<br><br>
+Does trade increase food security?<br><br>
+Does trade promote education?<br><br> 
+What are the effects of trade on the environment?Is trade compatible with sustainable resource use?<br><br>
+Each of these speaks to a specific SDG or SDGs. With some tools in hand (from the next module, A.2), we will be prepared to ask questions such as these– and many more as well.<br><br> 
 We look forward to exploring these with you!
-
-
-
-  
-
-
-
-
-  
-
- 
- 
-
- 
- 
-
-
-
-
- 
-   
-
- 
- 
-  
-
