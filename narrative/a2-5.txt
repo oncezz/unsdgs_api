@@ -1,0 +1,20 @@
+In the remainder of this module, we consider some data that provide a context for the trade-development discussion.<br><br> 
+First, patterns of developing country trade have evolved a lot in recent years. In the 20th century, many developing countries specialized in agricultural and resource exports. By the 21st century, manufactured goods are more important.<br><br>
+This graph illustrates that for the case of Indonesia. In the 1970s, fuel, ore, and agricultural raw materials made up about 80% of Indonesia’s exports. By the 21st century, we see that manufactured goods have become much more important. This is true not only in Indonesia but in many other developing countries as well.<br><br>
+When countries trade, what determines the sectoral pattern of exports and imports?<br><br>
+1. Resources (such as labor, land, and capital)<br><br>
+A land-rich country is more likely to export agricultural products, other things equal<br><br>
+2. Technology<br><br>
+Higher labor productivity means lower effective labor costs<br><br>
+3. Policy<br><br>
+Trade policies and trade agreements may facilitate (or hinder) some trade flows.<br><br>
+Besides the evolving sectoral trade patterns of developing countries, their trade partners have changed as well.<br><br>
+Over time, the rapid growth of the developing economies - and their even more rapid integration into the global economy - has seen the so-called "south-south" trade gradually increase in importance relative to traditional "South-North" patterns.<br><br>
+These graphs show the shares of developing economies' trade partners, where East Asia & Pacific and other developing economies become increasingly important over time.<br><br> 
+This trend is especially obvious in East and Southeast Asia, a region that accounts for about one-third of total global economic activity.<br><br>
+Part of the rise in South-South trade is due to economic growth and development, which creates larger markets everywhere for all kinds of goods and services.<br><br>
+Another part is the relatively recent rise of so-called global value chains, a global phenomenon made possible by declining trade barriers and transport costs.<br><br>
+One facet of the growth in south-south trade is increasing participation in global value chains. This is the name given to international production networks taking advantage of specialization, low transport costs, and low barriers to trade. Global value chain activity is centered around the trade in unfinished goods (or “parts and components”) that are shipped from source, perhaps through other processing points, to an assembly plant and thence to final markets. The logic of the global value chain is that when trade costs are low, the production process can optimally be “fragmented” across national borders, with different tasks performed in different countries according to their competitiveness.<br><br>
+What are some of the implications of the rise of South-South trade and the global value chain?<br><br>
+The recent trade trends just surveyed don’t overturn the principles that guide our understanding of trade.<br><br> 
+But they do add complexity beyond the traditional trade models taught in economics classes. We will have the new conditions of trade very much in mind as we continue our exploration of trade, development and the SDG in the remainder of this course.
