@@ -1,25 +1,25 @@
-In these introductory modules we explore links between trade and the SDGs at the broadest level.<br>
-The UN Resolution describes trade as “an engine for inclusive economic growth and poverty reduction, [which] contributes to the promotion of sustainable development.”<br>
-Surprisingly, however, trade (and other international transactions, notably foreign direct investment) are seldom explicitly incorporated as first-rank contributors to the SDGs or their targets.<br>
- In this course we will see, however, that trade has extensive effects on progress toward the SDGs, and that the effects of trade on specific SDGs, whether direct and indirect, can be substantial. In later modules we will investigate these relationships in greater detail. We will see that trade can in many ways facilitate progress toward the SDGs—first and foremost, through its contribution to faster economic growth.<br>
-However, we will also see that in some cases, trade may indirectly impede progress toward some SDGs.<br>
- This leads us to pose two questions:
-• What are the fundamental links between trade and SDGs?
-• Does trade help or hinder efforts to attain the SDGs?<br>
-Trade and other forms of international integration affect SDG indicators in many ways. This diagram shows only the most direct and important of these.<br>
-In countries that trade, many prices are set in world markets, and some productive capacity, such as that supplied by foreign investment, also comes from abroad.<br>
-Prices and productive capacity in turn affect forms’ decisions on what to produce, using which inputs and labor force.<br>
- These decisions, in turn have a big influence over household incomes, especially through labor earnings, and purchasing power, through incomes and prices.<br>
- They also affect some SDGs directly, for example through changing labor practices by firms.<br>
-At the same time, international integration affects the public sector’s revenues, more directly through taxes on trade and the volume of trade affected. The government’s budget position affects its capacity<br>
- to undertake programs directly addressing poverty, education, health and other SDGs. Government actions also affect households, through taxes, subsidies and direct government spending.<br>
-Household’s decisions over the disposal of their income complete the story; the decisions of firms, households and government all influence progress toward social and economic SDGs.<br>
-To better understand the effects of trade on SDGs, our first step is to understand the most basic effects of trade on overall economic well-being.<br>
-It is uncontroversial that trade improves total income by allowing for specialization.<br>
- Countries that trade have the option to produce and export goods and services that they can supply at relatively low cost in exchange for goods and services that other countries can produce more cheaply.<br>
-The gains from specialization are felt through more efficient resource utilization, lower prices for consumers, improved access to technology, and stronger incentives for investment.<br>
-Trade is often complemented by foreign investment (FDI), which comes “bundled” with technology,<br>
- know-how, and international networks for efficient sales,<br>
+In these introductory modules we explore links between trade and the SDGs at the broadest level.<br><br>
+The UN Resolution describes trade as “an engine for inclusive economic growth and poverty reduction, [which] contributes to the promotion of sustainable development.”<br><br>
+Surprisingly, however, trade (and other international transactions, notably foreign direct investment) are seldom explicitly incorporated as first-rank contributors to the SDGs or their targets.<br><br>
+ In this course we will see, however, that trade has extensive effects on progress toward the SDGs, and that the effects of trade on specific SDGs, whether direct and indirect, can be substantial. In later modules we will investigate these relationships in greater detail. We will see that trade can in many ways facilitate progress toward the SDGs—first and foremost, through its contribution to faster economic growth.<br><br>
+However, we will also see that in some cases, trade may indirectly impede progress toward some SDGs.<br><br>
+ This leads us to pose two questions:<br><br>
+• What are the fundamental links between trade and SDGs?<br><br>
+• Does trade help or hinder efforts to attain the SDGs?<br><br>
+Trade and other forms of international integration affect SDG indicators in many ways. This diagram shows only the most direct and important of these.<br><br>
+In countries that trade, many prices are set in world markets, and some productive capacity, such as that supplied by foreign investment, also comes from abroad.<br><br>
+Prices and productive capacity in turn affect forms’ decisions on what to produce, using which inputs and labor force.<br><br>
+ These decisions, in turn have a big influence over household incomes, especially through labor earnings, and purchasing power, through incomes and prices.<br><br>
+ They also affect some SDGs directly, for example through changing labor practices by firms.<br><br>
+At the same time, international integration affects the public sector’s revenues, more directly through taxes on trade and the volume of trade affected. The government’s budget position affects its capacity<br><br>
+ to undertake programs directly addressing poverty, education, health and other SDGs. Government actions also affect households, through taxes, subsidies and direct government spending.<br><br>
+Household’s decisions over the disposal of their income complete the story; the decisions of firms, households and government all influence progress toward social and economic SDGs.<br><br>
+To better understand the effects of trade on SDGs, our first step is to understand the most basic effects of trade on overall economic well-being.<br><br>
+It is uncontroversial that trade improves total income by allowing for specialization.<br><br>
+ Countries that trade have the option to produce and export goods and services that they can supply at relatively low cost in exchange for goods and services that other countries can produce more cheaply.<br><br>
+The gains from specialization are felt through more efficient resource utilization, lower prices for consumers, improved access to technology, and stronger incentives for investment.<br><br>
+Trade is often complemented by foreign investment (FDI), which comes “bundled” with technology,<br><br>
+ know-how, and international networks for efficient sales,<br><br>
 , sourcing and management. In this course, when we refer to trade, it should be understood that we are usually including FDI.<br><br>
 Countries that engage in trade gain access to all these potential benefits. In this sense, trade is a win-win course of action.<br><br>
  As Jeffrey Sachs, former director of the UN Millennium Goals, put it:"When countries open up to trade, they generally benefit because they can sell more, then they can buy more. And trade has a two-way gain.”<br><br>
