@@ -1,1 +1,28 @@
-<div>1234</div>
+<div class="">
+  1234
+  <div class="ansBtn">Answer</div>
+</div>
+
+<script>
+  export default {
+    data() {
+      return {
+        isAns: false,
+      };
+    },
+  };
+</script>
+<style lang="scss" scoped>
+  .colorRed {
+    color: red;
+  }
+  .ansBtn {
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    width: 300px;
+    height: 100px;
+    line-height: 100px;
+  }
+</style>
