@@ -2,10 +2,10 @@
 require_once('connection.php');
 $_POST = json_decode(file_get_contents("php://input"),true);
 
-$lesson=$_POST['lesson'];
-$lesson="quiz/" . $lesson;
-$myfile = fopen( $lesson, "r") or die("Unable to open file!");
-echo fread($myfile,filesize( $lesson));
+$quiz=$_POST['quiz'];
+$quiz="quiz/" . $quiz;
+$myfile = fopen( $quiz, "r") or die("Unable to open file!");
+echo fread($myfile,filesize( $quiz));
 fclose($myfile);
 
 ?>
