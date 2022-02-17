@@ -12,21 +12,21 @@ date_default_timezone_set("Asia/Bangkok");
 
 // If you installed via composer, just use this code to require autoloader on the top of your projects.
 // require 'vendor/autoload.php';
-// require("Medoo.php");
+require("Medoo.php");
  
-// // Using Medoo namespace
-// use Medoo\Medoo;
+// Using Medoo namespace
+use Medoo\Medoo;
  
 
 
-// $db = new Medoo([
-// 	// required
-// 	'database_type' => 'mysql',
-// 	'database_name' => 'unsdgs',
-// 	'server' => 'localhost',
-// 	'port'=>3306,
-// 	'username' => 'root',
-// 	'password' => '12345678',
-// ]);
+$db = new Medoo([
+	// required
+	'database_type' => 'mysql',
+	'database_name' => 'unsdgs',
+	'server' => 'localhost',
+	'port'=>3306,
+	'username' => 'root',
+	'password' => '12345678',
+]);
 
 ?>
